@@ -1,0 +1,2 @@
+Maçã, 7.0$, quantidade:34, perecível:Sim
+Banana, 5.0$, quantidade:52, perecível:Sim
